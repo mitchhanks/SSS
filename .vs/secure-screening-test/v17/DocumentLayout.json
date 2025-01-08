@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\mitch\\Documents\\secure-screening-test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\Http\\Middleware\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coverage-report\\Http\\Middleware\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\KernelScheduleTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Unit\\KernelScheduleTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\GenerateTicketTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Unit\\GenerateTicketTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\phpunit.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phpunit.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\ProcessTicketTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Unit\\ProcessTicketTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\ProcessTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Commands\\ProcessTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Commands\\GenerateTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketControllerTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Feature\\TicketControllerTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketApiTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\Feature\\TicketApiTest.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coverage-report\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\api.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\api.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\TicketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TicketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\CreatesApplication.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\CreatesApplication.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\UserTickets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\js\\UserTickets.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -23,32 +79,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\js\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Commands\\GenerateTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\ProcessTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Commands\\ProcessTicket.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Console\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Kernel.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\api.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\api.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\TicketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Http\\Controllers\\TicketController.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\Controller.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -91,105 +127,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserTickets.jsx",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\UserTickets.jsx",
-              "RelativeDocumentMoniker": "resources\\js\\UserTickets.jsx",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\UserTickets.jsx",
-              "RelativeToolTip": "resources\\js\\UserTickets.jsx",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-06T17:15:42.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tickets.jsx",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\Tickets.jsx",
-              "RelativeDocumentMoniker": "resources\\js\\Tickets.jsx",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\Tickets.jsx",
-              "RelativeToolTip": "resources\\js\\Tickets.jsx",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-06T16:08:23.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.jsx",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\app.jsx",
-              "RelativeDocumentMoniker": "resources\\js\\app.jsx",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\app.jsx",
-              "RelativeToolTip": "resources\\js\\app.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-01-06T14:33:20.959Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\Http\\Middleware\\index.html",
+              "RelativeDocumentMoniker": "coverage-report\\Http\\Middleware\\index.html",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\Http\\Middleware\\index.html",
+              "RelativeToolTip": "coverage-report\\Http\\Middleware\\index.html",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAnwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-08T23:31:06.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "web.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\web.php",
-              "RelativeDocumentMoniker": "routes\\web.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\web.php",
-              "RelativeToolTip": "routes\\web.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Title": "KernelScheduleTest.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\KernelScheduleTest.php",
+              "RelativeDocumentMoniker": "tests\\Unit\\KernelScheduleTest.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\KernelScheduleTest.php",
+              "RelativeToolTip": "tests\\Unit\\KernelScheduleTest.php",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T15:43:48.726Z",
+              "WhenOpened": "2025-01-08T23:25:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "phpunit.xml",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\phpunit.xml",
+              "RelativeDocumentMoniker": "phpunit.xml",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\phpunit.xml",
+              "RelativeToolTip": "phpunit.xml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-08T21:38:47.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "welcome.blade.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\views\\welcome.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\views\\welcome.blade.php",
-              "RelativeToolTip": "resources\\views\\welcome.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "GenerateTicketTest.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\GenerateTicketTest.php",
+              "RelativeDocumentMoniker": "tests\\Unit\\GenerateTicketTest.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\GenerateTicketTest.php",
+              "RelativeToolTip": "tests\\Unit\\GenerateTicketTest.php",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T15:26:50.799Z",
+              "WhenOpened": "2025-01-08T21:46:20.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GenerateTicket.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php",
-              "RelativeDocumentMoniker": "app\\Console\\Commands\\GenerateTicket.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php",
-              "RelativeToolTip": "app\\Console\\Commands\\GenerateTicket.php",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Title": "ProcessTicketTest.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\ProcessTicketTest.php",
+              "RelativeDocumentMoniker": "tests\\Unit\\ProcessTicketTest.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Unit\\ProcessTicketTest.php",
+              "RelativeToolTip": "tests\\Unit\\ProcessTicketTest.php",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T14:01:17.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Kernel.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php",
-              "RelativeDocumentMoniker": "app\\Console\\Kernel.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php",
-              "RelativeToolTip": "app\\Console\\Kernel.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T14:29:00.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Kernel.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Kernel.php",
-              "RelativeDocumentMoniker": "app\\Http\\Kernel.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Kernel.php",
-              "RelativeToolTip": "app\\Http\\Kernel.php",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAewBIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T14:28:53.876Z",
+              "WhenOpened": "2025-01-08T21:46:28.348Z",
               "EditorCaption": ""
             },
             {
@@ -200,59 +197,98 @@
               "RelativeDocumentMoniker": "app\\Console\\Commands\\ProcessTicket.php",
               "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\ProcessTicket.php",
               "RelativeToolTip": "app\\Console\\Commands\\ProcessTicket.php",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-06T14:02:45.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kernel.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php",
+              "RelativeDocumentMoniker": "app\\Console\\Kernel.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Kernel.php",
+              "RelativeToolTip": "app\\Console\\Kernel.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T14:29:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenerateTicket.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php",
+              "RelativeDocumentMoniker": "app\\Console\\Commands\\GenerateTicket.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Console\\Commands\\GenerateTicket.php",
+              "RelativeToolTip": "app\\Console\\Commands\\GenerateTicket.php",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T14:01:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketControllerTest.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketControllerTest.php",
+              "RelativeDocumentMoniker": "tests\\Feature\\TicketControllerTest.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketControllerTest.php",
+              "RelativeToolTip": "tests\\Feature\\TicketControllerTest.php",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T21:15:56.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "TicketApiTest.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketApiTest.php",
+              "RelativeDocumentMoniker": "tests\\Feature\\TicketApiTest.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\Feature\\TicketApiTest.php",
+              "RelativeToolTip": "tests\\Feature\\TicketApiTest.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T21:09:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\index.html",
+              "RelativeDocumentMoniker": "coverage-report\\index.html",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\coverage-report\\index.html",
+              "RelativeToolTip": "coverage-report\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-08T21:43:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "api.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\api.php",
               "RelativeDocumentMoniker": "routes\\api.php",
               "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\api.php",
               "RelativeToolTip": "routes\\api.php",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-06T14:09:29.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "vite.config.js",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\vite.config.js",
-              "RelativeDocumentMoniker": "vite.config.js",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\vite.config.js",
-              "RelativeToolTip": "vite.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-06T13:51:37.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Controller.php",
-              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\Controller.php",
-              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
-              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\Controller.php",
-              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T15:54:03.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "TicketController.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\TicketController.php",
               "RelativeDocumentMoniker": "app\\Http\\Controllers\\TicketController.php",
               "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\TicketController.php",
               "RelativeToolTip": "app\\Http\\Controllers\\TicketController.php",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-06T14:11:09.419Z",
               "EditorCaption": ""
@@ -260,6 +296,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "CreatesApplication.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\CreatesApplication.php",
+              "RelativeDocumentMoniker": "tests\\CreatesApplication.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\tests\\CreatesApplication.php",
+              "RelativeToolTip": "tests\\CreatesApplication.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-08T21:15:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.jsx",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\app.jsx",
+              "RelativeDocumentMoniker": "resources\\js\\app.jsx",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\app.jsx",
+              "RelativeToolTip": "resources\\js\\app.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-06T14:33:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T15:43:48.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "welcome.blade.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\views\\welcome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\views\\welcome.blade.php",
+              "RelativeToolTip": "resources\\views\\welcome.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T15:26:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserTickets.jsx",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\UserTickets.jsx",
+              "RelativeDocumentMoniker": "resources\\js\\UserTickets.jsx",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\UserTickets.jsx",
+              "RelativeToolTip": "resources\\js\\UserTickets.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-06T17:15:42.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tickets.jsx",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\Tickets.jsx",
+              "RelativeDocumentMoniker": "resources\\js\\Tickets.jsx",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\resources\\js\\Tickets.jsx",
+              "RelativeToolTip": "resources\\js\\Tickets.jsx",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-06T16:08:23.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Kernel.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Kernel.php",
+              "RelativeDocumentMoniker": "app\\Http\\Kernel.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Kernel.php",
+              "RelativeToolTip": "app\\Http\\Kernel.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T14:28:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-06T13:51:37.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Controller.php",
+              "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\Controller.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Controller.php",
+              "ToolTip": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Http\\Controllers\\Controller.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Controller.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T15:54:03.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "User.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Models\\User.php",
               "RelativeDocumentMoniker": "app\\Models\\User.php",
@@ -267,12 +412,11 @@
               "RelativeToolTip": "app\\Models\\User.php",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T13:59:21.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T13:59:21.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "TicketSeeder.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\database\\seeders\\TicketSeeder.php",
               "RelativeDocumentMoniker": "database\\seeders\\TicketSeeder.php",
@@ -280,12 +424,11 @@
               "RelativeToolTip": "database\\seeders\\TicketSeeder.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T13:57:53.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T13:57:53.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "TicketFactory.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\database\\factories\\TicketFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\TicketFactory.php",
@@ -293,12 +436,11 @@
               "RelativeToolTip": "database\\factories\\TicketFactory.php",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T13:57:21.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T13:57:21.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "Ticket.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\app\\Models\\Ticket.php",
               "RelativeDocumentMoniker": "app\\Models\\Ticket.php",
@@ -306,12 +448,11 @@
               "RelativeToolTip": "app\\Models\\Ticket.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T14:06:37.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T14:06:37.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "DatabaseSeeder.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\database\\seeders\\DatabaseSeeder.php",
               "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
@@ -319,12 +460,11 @@
               "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T13:57:08.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T13:57:08.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "UserFactory.php",
               "DocumentMoniker": "C:\\Users\\mitch\\Documents\\secure-screening-test\\database\\factories\\UserFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\UserFactory.php",
@@ -332,8 +472,7 @@
               "RelativeToolTip": "database\\factories\\UserFactory.php",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-06T13:59:31.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T13:59:31.146Z"
             }
           ]
         }

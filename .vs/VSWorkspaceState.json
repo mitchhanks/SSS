@@ -3,14 +3,15 @@
     "",
     "\\app",
     "\\app\\Http",
-    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Middleware",
     "\\resources",
-    "\\resources\\css",
-    "\\resources\\js",
     "\\resources\\views",
     "\\storage",
-    "\\storage\\logs"
+    "\\storage\\logs",
+    "\\tests",
+    "\\tests\\Feature",
+    "\\tests\\Unit"
   ],
-  "SelectedNode": "\\routes\\web.php",
+  "SelectedNode": "\\app\\Http\\Middleware\\PreventRequestsDuringMaintenance.php",
   "PreviewInSolutionExplorer": false
 }

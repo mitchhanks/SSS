@@ -6,6 +6,8 @@ use App\Models\Ticket;
 use App\Models\User;
 use Illuminate\Console\Command;
 use Faker\Factory as Faker;
+use Illuminate\Support\Facades\Log;
+
 
 class GenerateTicket extends Command
 {
@@ -22,6 +24,11 @@ class GenerateTicket extends Command
 
         // Find or create a user (or pick a random one)
         $user = User::inRandomOrder()->first();
+        if (!$user) {
+            $this->error('No users found in the database.');
+            return;
+        }
+
 
         // Create the ticket with dummy data
         Ticket::create([
@@ -31,6 +38,7 @@ class GenerateTicket extends Command
             'status' => false, // Default status: unprocessed
         ]);
 
+        Log::info('Success'); // Log the output for debugging
         $this->info('Ticket created successfully!');
     }
 }
